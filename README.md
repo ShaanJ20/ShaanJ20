@@ -28,5 +28,13 @@
 - **Musiat**
 - **Chess Game**
 
+## Some Graphs ##
+
+
+![ShaanJ20's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaanJ20&theme=tokyonight&show_icons=true)
+
+[![Shaan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaanJ20&layout=compact//github.com/ShaanJ20/github-readme-stats)
+
+
 
 
