@@ -8,7 +8,7 @@
 - **Complete GSoc**
 - **Contribute at least 1000 times in this year**
 - **Never Give UP**
-![Untitled](https://user-images.githubusercontent.com/75380879/110637547-82f35600-81d3-11eb-8508-f761bb668966.png)
+
 
 ## Things to learn ##
 - **Python**
@@ -34,6 +34,7 @@
 ![ShaanJ20's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaanJ20&theme=tokyonight&show_icons=true)
 
 [![Shaan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaanJ20&layout=compact//github.com/ShaanJ20/github-readme-stats)
+
 
 
 
