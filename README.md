@@ -16,9 +16,7 @@ Skills: JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShaanJ20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/letmecode20/)  
 
-## Graphs ##
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaanJ20&show_icons=true)  
+## Graphs ## 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShaanJ20)  
 
