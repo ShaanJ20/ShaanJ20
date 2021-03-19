@@ -22,5 +22,4 @@ Skills: JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/ShaanJ20)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShaanJ20)  
 
