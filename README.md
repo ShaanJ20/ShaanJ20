@@ -6,7 +6,7 @@
 
 Skills: JS / HTML / CSS / Python
 
-- 🔭 My Website <a href="https://Monotechonweb.me">Monotechonweb.me target="_main"</a> 
+- 🔭 My Website <a href="https://Monotechonweb.me" target="_main_">Monotechonweb.me</a> 
 - 🌱 I’m currently learning Python for ML and AI
 - 👯 I’m looking to collaborate on Fossasia and JBoss 
 - 🤔 I’m looking for help with ClassMethods in Python 
