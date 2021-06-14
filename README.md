@@ -4,12 +4,12 @@
 
 ***I just started coding and it been great year doing this so far learned both the markup languages and in the progress of learning the JavaScript***
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / Python
 
-- 🔭 I’m currently working on A website that is perfectly made for coders 
-- 🌱 I’m currently learning JS and Python 
+- 🔭 My Website Monotechonweb.me 
+- 🌱 I’m currently learning Python for ML and AI
 - 👯 I’m looking to collaborate on Fossasia and JBoss 
-- 🤔 I’m looking for help with Bubble Sort 
+- 🤔 I’m looking for help with ClassMethods in Python 
 - ⚡ Fun fact: I am 14 
 
 ## Socials ##
