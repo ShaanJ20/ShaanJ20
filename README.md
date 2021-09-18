@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanj20&label=Profile%20views&color=0e75b6&style=flat" alt="shaanj20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaanj20" alt="shaanj20" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shaanforlife" target="blank"><img src="https://img.shields.io/twitter/follow/shaanforlife?logo=twitter&style=for-the-badge" alt="shaanforlife" /></a> </p>
 
 - 🔭 I’m currently working on a lot of projects like **Subo, Reactify, Gamen**
