@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shaanforlife"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shaanforlife" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaanj20&show_icons=true&locale=en&layout=compact" alt="shaanj20" /></p><br>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaanj20&show_icons=true&locale=en&layout=compact" alt="shaanj20" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaanj20&show_icons=true&locale=en" alt="shaanj20" /></p>
 
