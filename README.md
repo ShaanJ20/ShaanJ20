@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaan Johari</h1>
 <h3 align="center">A 14 year old developer who is on the road of developing amazing products for you</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanj20&label=Profile%20views&color=0e75b6&style=flat" alt="shaanj20" /> </p>
-
 <p align="left"> <a href="https://twitter.com/shaanforlife" target="blank"><img src="https://img.shields.io/twitter/follow/shaanforlife?logo=twitter&style=for-the-badge" alt="shaanforlife" /></a> </p>
 
 - 🔭 I’m currently working on a lot of projects like **Subo, Reactify, Gamen**
@@ -36,3 +34,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaanj20&show_icons=true&locale=en" alt="shaanj20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaanj20&" alt="shaanj20" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanj20&label=Profile%20views&color=0e75b6&style=flat" alt="shaanj20" /> </p>
