@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Incoming](Incoming)
 
-- 📫 How to reach me **shaanj18.business@gmail.com**
+- 📫 How to reach me **heyshaanj@gmail.com**
 
 - ⚡ Fun fact **I like to build projects than conceptual learning**
 
