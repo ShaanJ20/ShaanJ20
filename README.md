@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/shaanforlife" target="blank"><img src="https://img.shields.io/twitter/follow/shaanforlife?logo=twitter&style=for-the-badge" alt="shaanforlife" /></a> </p>
 
+[![wakatime](https://wakatime.com/badge/user/2fff73c7-70ee-4fd7-a730-2763a2212aae.svg)](https://wakatime.com/@2fff73c7-70ee-4fd7-a730-2763a2212aae)
+
 - 🔭 I’m currently working on a lot of projects like **Subo, Reactify, Gamen**
 
 - 🌱 I’m currently learning **React and Redux**
